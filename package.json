@@ -1,0 +1,42 @@
+{
+  "_args": [
+    [
+      "github:bonustrack/snapshot-spaces#master",
+      "/home/dashuo/snapshot"
+    ]
+  ],
+  "_from": "github:bonustrack/snapshot-spaces#master",
+  "_id": "@bonustrack/snapshot-spaces@github:bonustrack/snapshot-spaces#cd7ce721b0856f3514271a2ea6fcd11e8a7ce2a6",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/@bonustrack/snapshot-spaces",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:bonustrack/snapshot-spaces#master",
+    "rawSpec": "github:bonustrack/snapshot-spaces#master",
+    "saveSpec": "github:bonustrack/snapshot-spaces#master",
+    "fetchSpec": null,
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:bonustrack/snapshot-spaces#cd7ce721b0856f3514271a2ea6fcd11e8a7ce2a6",
+  "_spec": "github:bonustrack/snapshot-spaces#master",
+  "_where": "/home/dashuo/snapshot",
+  "bugs": {
+    "url": "https://github.com/bonustrack/snapshot-spaces/issues"
+  },
+  "files": [
+    "spaces"
+  ],
+  "homepage": "https://github.com/bonustrack/snapshot-spaces#readme",
+  "license": "MIT",
+  "name": "@bonustrack/snapshot-spaces",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonustrack/snapshot-spaces.git"
+  },
+  "version": "0.1.0"
+}
