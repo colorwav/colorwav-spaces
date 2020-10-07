@@ -1,0 +1,296 @@
+[
+    {
+        "transactionId": "88ca72ab-16e4-435b-ba3e-76817d95386f",
+        "lastUpdated": "1599705685",
+        "rarity": "Relic",
+        "points": 1,
+        "id": "1",
+        "pool": {
+            "name": "genesis",
+            "points": 1
+        },
+        "external_url": "https://dontbuymeme.com/cards/1",
+        "image": "https://colorwav-demo.vercel.app/lollipop-1.png",
+        "name": "Colorwav Genesis Card",
+        "description": "Lollipop",
+        "artist": {
+            "name": "Candy Factory"
+        },
+        "attributes": [
+            {
+                "trait_type": "Set",
+                "value": "Genesis"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Relic"
+            },
+            {
+                "trait_type": "Artist",
+                "value": "RektMe Rev"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Relic"
+            },
+            {
+                "trait_type": "Tag",
+                "value": "Pineapple"
+            },
+            {
+                "display_type": "date",
+                "trait_type": "birthday",
+                "value": 1598450400
+            },
+            {
+                "trait_type": "Max Supply",
+                "value": "10000"
+            }
+        ]
+    },
+    {
+        "transactionId": "7608f2f0-aa4e-45ae-a4e6-6aa7ce97761a",
+        "lastUpdated": "1599705700",
+        "rarity": "Common",
+        "points": 10,
+        "id": "2",
+        "pool": {
+            "name": "genesis",
+            "points": 10
+        },
+        "external_url": "https://dontbuymeme.com/cards/2",
+        "image": "https://images.dontbuymeme.com/genesis/vitalik-buterin-common.png",
+        "name": "Vitalik Buterin Common",
+        "description": "The Great \"Ethereum\" Vitalik",
+        "artist": {
+            "name": "RektMe Rev"
+        },
+        "attributes": [
+            {
+                "trait_type": "Set",
+                "value": "Genesis"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Common"
+            },
+            {
+                "trait_type": "Artist",
+                "value": "RektMe Rev"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Crypto Influencers"
+            },
+            {
+                "trait_type": "Tag",
+                "value": "Ethereum"
+            },
+            {
+                "display_type": "date",
+                "trait_type": "birthday",
+                "value": 1598450400
+            },
+            {
+                "trait_type": "Max Supply",
+                "value": "1000"
+            }
+        ]
+    },
+    {
+        "transactionId": "f455ab29-d289-47a4-b109-39c3390481d1",
+        "lastUpdated": "1599705704",
+        "rarity": "Common",
+        "points": 10,
+        "id": "3",
+        "pool": {
+            "name": "genesis",
+            "points": 10
+        },
+        "external_url": "https://dontbuymeme.com/cards/3",
+        "image": "https://images.dontbuymeme.com/genesis/sergey-nazarov-common.png",
+        "name": "Sergey Nazarov Common",
+        "description": "Link Marine Pepe",
+        "artist": {
+            "name": "RektMe Rev"
+        },
+        "attributes": [
+            {
+                "trait_type": "Set",
+                "value": "Genesis"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Common"
+            },
+            {
+                "trait_type": "Artist",
+                "value": "RektMe Rev"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Crypto Influencers"
+            },
+            {
+                "trait_type": "Tag",
+                "value": "Chainlink"
+            },
+            {
+                "display_type": "date",
+                "trait_type": "birthday",
+                "value": 1598450400
+            },
+            {
+                "trait_type": "Max Supply",
+                "value": "1000"
+            }
+        ]
+    },
+    {
+        "transactionId": "59f6b8d7-bbf7-4cf2-8f41-adda3f2553b5",
+        "lastUpdated": "1599705710",
+        "rarity": "Common",
+        "points": 10,
+        "id": "4",
+        "pool": {
+            "name": "genesis",
+            "points": 10
+        },
+        "external_url": "https://dontbuymeme.com/cards/4",
+        "image": "https://images.dontbuymeme.com/genesis/cz-common.png",
+        "name": "Changpeng Zhao (CZ) Common",
+        "description": "CZ, The Shitcoin Connoisseur",
+        "artist": {
+            "name": "RektMe Rev"
+        },
+        "attributes": [
+            {
+                "trait_type": "Set",
+                "value": "Genesis"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Common"
+            },
+            {
+                "trait_type": "Artist",
+                "value": "RektMe Rev"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Crypto Influencers"
+            },
+            {
+                "trait_type": "Tag",
+                "value": "Binance"
+            },
+            {
+                "display_type": "date",
+                "trait_type": "birthday",
+                "value": 1598450400
+            },
+            {
+                "trait_type": "Max Supply",
+                "value": "1000"
+            }
+        ]
+    },
+    {
+        "transactionId": "616f0a2d-eb72-48e1-ad57-4ba209411fd0",
+        "lastUpdated": "1599705714",
+        "rarity": "Rare",
+        "points": 30,
+        "id": "5",
+        "pool": {
+            "name": "genesis",
+            "points": 30
+        },
+        "external_url": "https://dontbuymeme.com/cards/5",
+        "image": "https://images.dontbuymeme.com/genesis/vitalik-buterin-rare.png",
+        "name": "Vitalik Buterin Rare",
+        "description": "The Great \"Meme\" Vitalik",
+        "artist": {
+            "name": "RektMe Rev"
+        },
+        "attributes": [
+            {
+                "trait_type": "Set",
+                "value": "Genesis"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Rare"
+            },
+            {
+                "trait_type": "Artist",
+                "value": "RektMe Rev"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Crypto Influencers"
+            },
+            {
+                "trait_type": "Tag",
+                "value": "Ethereum"
+            },
+            {
+                "display_type": "date",
+                "trait_type": "birthday",
+                "value": 1598450400
+            },
+            {
+                "trait_type": "Max Supply",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "transactionId": "59bcc68d-dbc2-4599-806c-3929b281ccc9",
+        "lastUpdated": "1599705719",
+        "rarity": "Rare",
+        "points": 30,
+        "id": "6",
+        "pool": {
+            "name": "genesis",
+            "points": 30
+        },
+        "external_url": "https://dontbuymeme.com/cards/6",
+        "image": "https://images.dontbuymeme.com/genesis/sergey-nazarov-rare.png",
+        "name": "Sergey Nazarov Rare",
+        "description": "Sergey Nazarov, The Creator",
+        "artist": {
+            "name": "RektMe Rev"
+        },
+        "attributes": [
+            {
+                "trait_type": "Set",
+                "value": "Genesis"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Rare"
+            },
+            {
+                "trait_type": "Artist",
+                "value": "RektMe Rev"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Crypto Influencers"
+            },
+            {
+                "trait_type": "Tag",
+                "value": "Chainlink"
+            },
+            {
+                "display_type": "date",
+                "trait_type": "birthday",
+                "value": 1598450400
+            },
+            {
+                "trait_type": "Max Supply",
+                "value": "100"
+            }
+        ]
+    }
+]

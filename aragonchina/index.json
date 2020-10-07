@@ -1,0 +1,27 @@
+{
+  "key": "aragonchina",
+  "name": "Aragon China",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "ANC",
+  "defaultView": "all",
+  "address": "0xbbe319b73744db9d54f5d29df7d8256b7e43995c",
+  "token": "0xbbe319b73744db9d54f5d29df7d8256b7e43995c",
+  "defaultPool": "genesis",
+  "pools": [
+    {
+      "name": "global", 
+      "label": "Global Pool", 
+      "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
+      "config_url": "https://api.dontbuymeme.com/pools/genesis"
+    },
+    {
+      "name": "genesis", 
+      "label": "Genesis Pool", 
+      "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
+      "config_url": "https://api.dontbuymeme.com/pools/genesis"
+    }
+  ],
+  "min": 0,
+  "invalid": []
+}
