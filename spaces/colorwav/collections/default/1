@@ -10,7 +10,7 @@
     "attributes": [
         {
             "trait_type": "Set",
-            "value": "Genesis"
+            "value": "Common"
         },
         {
             "trait_type": "Rarity",
@@ -18,7 +18,7 @@
         },
         {
             "trait_type": "Artist",
-            "value": "RektMe Rev"
+            "value": "Typto"
         },
         {
             "trait_type": "Type",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "Tag",
-            "value": "Pineapple"
+            "value": "Colorwav"
         },
         {
             "display_type": "date",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Max Supply",
-            "value": "10000"
+            "value": "100"
         }
     ]
 }
