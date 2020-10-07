@@ -7,7 +7,21 @@
   "defaultView": "all",
   "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
   "token": "0x960b236A07cf122663c4303350609A66A7B288C0",
-  "core": [],
+  "defaultPool": "genesis",
+  "pools": [
+    {
+      "name": "global", 
+      "label": "Global Pool", 
+      "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
+      "config_url": "https://api.dontbuymeme.com/pools/genesis"
+    },
+    {
+      "name": "genesis", 
+      "label": "Genesis Pool", 
+      "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
+      "config_url": "https://api.dontbuymeme.com/pools/genesis"
+    }
+  ],
   "min": 0,
   "invalid": []
 }
