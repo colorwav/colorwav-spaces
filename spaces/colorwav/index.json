@@ -1,8 +1,8 @@
 {
   "version": "0.1.0",
-  "key": "daosquare",
-  "name": "DAOSquare",
-  "chainId": 4,
+  "key": "colorwav",
+  "name": "Colorwav",
+  "chainId": 1,
   "decimals": 8,
   "symbol": "COLOR",
   "address": "0x9a0ee6be5825d7610408e5659c2f366500792b4f",
@@ -10,14 +10,8 @@
   "defaultPool": "genesis",
   "pools": [
     {
-      "name": "global", 
-      "label": "Global Pool", 
-      "poolcontract": "0xacb8EEeec7Da9857Ed85C98fA880c6102Fbe0B06", 
-      "config_url": "https://api.dontbuymeme.com/pools/genesis"
-    },
-    {
-      "name": "genesis", 
-      "label": "Genesis Pool", 
+      "name": "common", 
+      "label": "common Pool", 
       "poolcontract": "0x1cB1141fa8E4a69C0B38E05d031D61488A8e67C2", 
       "config_url": "https://api.colorwav.co/spaces/daosquare/pools/genesis.json"
     }
