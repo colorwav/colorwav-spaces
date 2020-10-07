@@ -11,7 +11,7 @@
   "pools": [
     {
       "name": "common", 
-      "label": "common Pool", 
+      "label": "Common Pool", 
       "poolcontract": "0x1cB1141fa8E4a69C0B38E05d031D61488A8e67C2", 
       "config_url": "https://api.colorwav.co/spaces/daosquare/pools/common.json"
     },
