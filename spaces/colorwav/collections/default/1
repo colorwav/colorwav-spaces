@@ -5,8 +5,8 @@
     },
     "external_url": "https://dontbuymeme.com/cards/1",
     "image": "https://api.colorwav.co/images/lollipop-2.png",
-    "name": "Meme Grail Relic",
-    "description": "The Meme Holy Grail. To show our appreciation to all humble farmers",
+    "name": "Colorwav Common Card",
+    "description": "Community growth",
     "attributes": [
         {
             "trait_type": "Set",
