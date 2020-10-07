@@ -18,8 +18,8 @@
     {
       "name": "genesis", 
       "label": "Genesis Pool", 
-      "poolcontract": "0xacb8EEeec7Da9857Ed85C98fA880c6102Fbe0B06", 
-      "config_url": "https://colorwav-demo.vercel.app/daosquare-genesis.json"
+      "poolcontract": "0x1cB1141fa8E4a69C0B38E05d031D61488A8e67C2", 
+      "config_url": "https://api.colorwav.co/spaces/daosquare/pools/genesis.json"
     }
   ],
   "min": 0,
