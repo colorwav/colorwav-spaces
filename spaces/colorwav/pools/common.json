@@ -6,11 +6,11 @@
         "points": 1,
         "id": "1",
         "pool": {
-            "name": "genesis",
+            "name": "common",
             "points": 1
         },
         "external_url": "https://dontbuymeme.com/cards/1",
-        "image": "https://colorwav-demo.vercel.app/lollipop-1.png",
+        "image": "https://api.colorwav.co/spaces/colorwav/images/lollipop-2.png",
         "name": "Colorwav Genesis Card",
         "description": "Lollipop",
         "artist": {
