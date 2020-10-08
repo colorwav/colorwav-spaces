@@ -1,0 +1,21 @@
+{
+  "version": "0.1.0",
+  "key": "decentraland",
+  "name": "Decentraland",
+  "chainId": 1,
+  "decimals": 8,
+  "symbol": "MANA",
+  "address": "0x9a0ee6be5825d7610408e5659c2f366500792b4f",
+  "token": "0x9a0ee6be5825d7610408e5659c2f366500792b4f",
+  "defaultPool": "genesis",
+  "pools": [
+    {
+      "name": "common", 
+      "label": "Common Pool", 
+      "poolcontract": "0x1cB1141fa8E4a69C0B38E05d031D61488A8e67C2", 
+      "config_url": "https://api.colorwav.co/spaces/decentraland/pools/common.json"
+    }
+  ],
+  "min": 0,
+  "invalid": []
+}
