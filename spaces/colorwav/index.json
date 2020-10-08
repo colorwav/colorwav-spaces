@@ -7,7 +7,7 @@
   "symbol": "COLOR",
   "address": "0x9a0ee6be5825d7610408e5659c2f366500792b4f",
   "token": "0x9a0ee6be5825d7610408e5659c2f366500792b4f",
-  "defaultPool": "genesis",
+  "defaultPool": "common",
   "pools": [
     {
       "name": "common", 
