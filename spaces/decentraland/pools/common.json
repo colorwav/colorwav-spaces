@@ -6,7 +6,7 @@
         "points": 1,
         "id": "1",
         "pool": {
-            "name": "genesis",
+            "name": "common",
             "points": 1
         },
         "external_url": "https://dontbuymeme.com/cards/1",
