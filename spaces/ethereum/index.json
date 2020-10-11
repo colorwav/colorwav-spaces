@@ -1,0 +1,40 @@
+{
+  "key": "ethereum",
+  "name": "Ethereum",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "WETH",
+  "defaultView": "all",
+  "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+  "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+  "defaultPool": "genesis",
+  "pools": [
+    {
+      "name": "common", 
+      "label": "Common Pool", 
+      "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
+      "config_url": "https://api.dontbuymeme.com/pools/genesis"
+    },
+    {
+      "name": "genesis", 
+      "label": "Genesis Pool", 
+      "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
+      "config_url": "https://api.dontbuymeme.com/pools/genesis"
+    }
+  ],
+  "min": 0,
+  "invalid": [],
+  "showOnlyCore": true,
+  "strategies": [
+    ["erc20-balance-of", {
+      "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+      "symbol": "LEND",
+      "decimals": 18
+    }],
+    ["erc20-balance-of", {
+      "address": "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8",
+      "symbol": "aLEND",
+      "decimals": 18
+    }]
+  ]
+}
