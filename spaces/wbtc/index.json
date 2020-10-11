@@ -1,0 +1,27 @@
+{
+  "key": "wbtc",
+  "name": "Wrapped Bitcoin",
+  "chainId": 1,
+  "decimals": 8,
+  "symbol": "WBTC",
+  "defaultView": "all",
+  "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+  "token": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+  "defaultPool": "genesis",
+  "pools": [
+    {
+      "name": "common", 
+      "label": "Common Pool", 
+      "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
+      "config_url": "https://api.dontbuymeme.com/pools/genesis"
+    },
+    {
+      "name": "genesis", 
+      "label": "Genesis Pool", 
+      "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
+      "config_url": "https://api.dontbuymeme.com/pools/genesis"
+    }
+  ],
+  "min": 0,
+  "invalid": []
+}
