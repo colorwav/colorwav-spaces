@@ -19,7 +19,7 @@
       "name": "genesis", 
       "label": "Genesis Pool", 
       "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
-      "config_url": "https://api.colorwav.co/spaces/aragon/genesis.json"
+      "config_url": "https://api.colorwav.co/spaces/aragon/pools/genesis.json"
     }
   ],
   "min": 0,
