@@ -10,8 +10,8 @@
   "defaultPool": "genesis",
   "pools": [
     {
-      "name": "global", 
-      "label": "Global Pool", 
+      "name": "common", 
+      "label": "Common Pool", 
       "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
       "config_url": "https://api.dontbuymeme.com/pools/genesis"
     },
@@ -19,7 +19,7 @@
       "name": "genesis", 
       "label": "Genesis Pool", 
       "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
-      "config_url": "https://api.dontbuymeme.com/pools/genesis"
+      "config_url": "https://api.colorwav.co/spaces/aragon/genesis.json"
     }
   ],
   "min": 0,

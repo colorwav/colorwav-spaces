@@ -1,0 +1,41 @@
+{
+    "pool": {
+        "name": "genesis",
+        "points": 1
+    },
+    "external_url": "https://dontbuymeme.com/cards/1",
+    "image": "https://api.colorwav.co/spaces/aragon/images/Aragon-medal.png",
+    "name": "Aragon Cards",
+    "description": "Community growth",
+    "attributes": [
+        {
+            "trait_type": "Set",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Artist",
+            "value": "Typto"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Tag",
+            "value": "Colorwav"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1598450400
+        },
+        {
+            "trait_type": "Max Supply",
+            "value": "100"
+        }
+    ]
+}
