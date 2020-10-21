@@ -12,13 +12,13 @@
     {
       "name": "global", 
       "label": "Global Pool", 
-      "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
+      "poolcontract": "0xd2a21b77D1853ee90Ac0325e843420fBA7F9E4F1", 
       "config_url": "https://api.dontbuymeme.com/pools/genesis"
     },
     {
       "name": "genesis", 
       "label": "Genesis Pool", 
-      "poolcontract": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7", 
+      "poolcontract": "0xd2a21b77D1853ee90Ac0325e843420fBA7F9E4F1", 
       "config_url": "https://api.dontbuymeme.com/pools/genesis"
     }
   ],
