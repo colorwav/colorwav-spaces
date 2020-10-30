@@ -1,0 +1,52 @@
+[
+    {
+        "transactionId": "88ca72ab-16e4-435b-ba3e-76817d95386f",
+        "lastUpdated": "1599705685",
+        "rarity": "Relic",
+        "points": 1,
+        "id": "1",
+        "pool": {
+            "name": "common",
+            "points": 1
+        },
+        "external_url": "https://dontbuymeme.com/cards/1",
+        "image": "https://colorwav-demo.vercel.app/lollipop-1.png",
+        "name": "Colorwav Genesis Card",
+        "description": "Lollipop",
+        "artist": {
+            "name": "Candy Factory"
+        },
+        "attributes": [
+            {
+                "trait_type": "Set",
+                "value": "Genesis"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Relic"
+            },
+            {
+                "trait_type": "Artist",
+                "value": "RektMe Rev"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Relic"
+            },
+            {
+                "trait_type": "Tag",
+                "value": "Pineapple"
+            },
+            {
+                "display_type": "date",
+                "trait_type": "birthday",
+                "value": 1598450400
+            },
+            {
+                "trait_type": "Max Supply",
+                "value": "10000"
+            }
+        ]
+    }
+
+]
