@@ -12,12 +12,16 @@
     {
       "name": "common", 
       "label": "Common Pool", 
+      "limit": 5,
+      "assetsContract": "0x402Cc998716d6320f07c781F445cE805a7d33F5D",
       "poolcontract": "0xd2a21b77D1853ee90Ac0325e843420fBA7F9E4F1", 
       "config_url": "https://api.dontbuymeme.com/pools/genesis"
     },
     {
       "name": "genesis", 
       "label": "Genesis Pool", 
+      "limit": 5,
+      "assetsContract": "0x402Cc998716d6320f07c781F445cE805a7d33F5D",
       "poolcontract": "0xd2a21b77D1853ee90Ac0325e843420fBA7F9E4F1", 
       "config_url": "https://api.colorwav.co/spaces/aragon/pools/genesis.json"
     }

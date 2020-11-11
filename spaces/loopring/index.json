@@ -12,12 +12,16 @@
     {
       "name": "common", 
       "label": "Common Pool", 
+      "limit": 5,
+      "assetsContract": "0x402Cc998716d6320f07c781F445cE805a7d33F5D",
       "poolcontract": "0x1cB1141fa8E4a69C0B38E05d031D61488A8e67C2", 
       "config_url": "https://api.colorwav.co/spaces/decentraland/pools/common.json"
     },
     {
       "name": "genesis", 
       "label": "Genesis Pool", 
+      "limit": 10,
+      "assetsContract": "0x402Cc998716d6320f07c781F445cE805a7d33F5D",
       "poolcontract": "0x1cB1141fa8E4a69C0B38E05d031D61488A8e67C2", 
       "config_url": "https://api.colorwav.co/spaces/decentraland/pools/genesis.json"
     }
